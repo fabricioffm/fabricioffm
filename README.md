@@ -4,6 +4,12 @@
   </a>
 </p>
 
+<div>
+ <img src="https://media1.tenor.com/images/36698270a51a0c4129847dbfca2e068b/tenor.gif?itemid=16764909" width="200" 
+>
+</div>
+
+
 ## `sobre_mim.py`
 
 ```python
@@ -74,12 +80,6 @@ const contato = {
     <img src="https://img.shields.io/badge/E--mail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="E-mail" />
   </a>
 </p>
-
-
-- <div>
-  <img src="https://media1.tenor.com/images/36698270a51a0c4129847dbfca2e068b/tenor.gif?itemid=16764909" width="200" 
->
-</div>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F81F7,100:0D1117&height=100&section=footer" alt="" />
