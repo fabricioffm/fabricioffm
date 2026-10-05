@@ -26,9 +26,11 @@ if __name__ == "__main__":
     Dev().rotina()
 ```
 
+<div align="center">
+  
 <img src="https://raw.githubusercontent.com/fabricioffm/fabricioffm/output/snake.svg" alt="Snake animation" />
 
-
+</div>
 
 ## `stack.json`
 
